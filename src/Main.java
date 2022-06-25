@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        double Price = 75;
+        double Price = 175;
         double shippingCost = 0;
         double totalPrice = 0;
 
